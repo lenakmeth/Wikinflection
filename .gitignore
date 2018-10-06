@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Repo-specific stuff
+*.tsv       # log file from evaluation
+/Templates  # template files
+*.json      # any json files 
