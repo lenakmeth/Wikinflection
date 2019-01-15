@@ -37,7 +37,6 @@ def open_dump(filename):
                 if re.search("note=.+}}", temp) is not None:
                     temp = re.sub("note=.+}}", '', temp)
     
-    
                 # find the pages with the language codes
                 if "Module:languages/data" in title:
                     languages = {**languages, **edit_languages(temp)}           
