@@ -1,5 +1,7 @@
 # Wikinflection 
 
+_Find the extracted, ready-to-use corpus at_ [github.com/lenakmeth/Wikinflection-Corpus](https://github.com/lenakmeth/Wikinflection-Corpus).
+
 Massive semi-supervised generation of multilingual inflectional corpus from Wiktionary. Corresponding publication:
 Metheniti, E., & Neumann, G. (2018, December). [Wikinflection: Massive Semi-Supervised Generation of Multilingual Inflectional Corpus from Wiktionary.](http://www.ep.liu.se/ecp/article.asp?issue=155&article=014&volume=) In Proceedings of the 17th International Workshop on Treebanks and Linguistic Theories (TLT 2018), December 13–14, 2018, Oslo University, Norway (No. 155, pp. 147-161). Linköping University Electronic Press.
 
